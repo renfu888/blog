@@ -86,7 +86,13 @@ module.exports = {
                         alert: '赵英俊',
                         url: '/送你一朵小红花.mp3',
                         cover: '/送你一朵小红花.jpg',
-                    }
+                    },
+                    {
+                        name: "我的未来不是梦",
+                        alert: '张雨生',
+                        url: '/我的未来不是梦.mp3',
+                        cover: '/我的未来不是梦.jpg',
+                    },
                 ],
                 // 是否默认缩小
                 autoShrink: true,
